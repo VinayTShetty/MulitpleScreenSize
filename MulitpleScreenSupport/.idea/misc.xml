@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidTopics/MulitpleScreeSize/MulitpleScreenSupport/app/src/main/res/layout/activity_main.xml" value="0.10572916666666667" />
+        <entry key="..\:/AndroidTopics/MulitpleScreeSize/MulitpleScreenSupport/app/src/main/res/layout-land/activity_main.xml" value="0.2019400352733686" />
+        <entry key="..\:/AndroidTopics/MulitpleScreeSize/MulitpleScreenSupport/app/src/main/res/layout-sw320dp/activity_main.xml" value="0.23854166666666668" />
+        <entry key="..\:/AndroidTopics/MulitpleScreeSize/MulitpleScreenSupport/app/src/main/res/layout-sw720dp-land/activity_main.xml" value="0.176" />
+        <entry key="..\:/AndroidTopics/MulitpleScreeSize/MulitpleScreenSupport/app/src/main/res/layout-sw720dp/activity_main.xml" value="0.17890625" />
+        <entry key="..\:/AndroidTopics/MulitpleScreeSize/MulitpleScreenSupport/app/src/main/res/layout-w720dp/activity_main.xml" value="0.2019400352733686" />
+        <entry key="..\:/AndroidTopics/MulitpleScreeSize/MulitpleScreenSupport/app/src/main/res/layout/activity_main.xml" value="0.72" />
       </map>
     </option>
   </component>
